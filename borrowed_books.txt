@@ -1,0 +1,51 @@
+StudentID;StudentName;BorrowID;BookTitle;Author;BorrowDate
+2457812;Ahmet Yilmaz;B1001;Introduction to Algorithms;Thomas H. Cormen;2025-02-05
+2457813;Elif Tunc;B1002;Clean Code;Robert C. Martin;2025-02-10
+2457812;Ahmet Yilmaz;B1201;Introduction to DB;Christ Det;2025-02-05
+2457814;Yusuf Baran;B1003;Operating System Concepts;Abraham Silberschatz, Peter B. Galvin, Greg Gagne;2025-03-02
+2457815;Mehmet Kaya;B1004;Database System Concepts;Abraham Silberschatz, Henry F. Korth, S. Sudarshan;2025-02-15
+2457816;Sarah Acar;B1005;Artificial Intelligence: A Modern Approach;Stuart Russell, Peter Norvig;2025-03-01
+2457817;Lara Demir;B1006;Computer Networks;Andrew S. Tanenbaum, David Wetherall;2025-03-07
+2457812;Ahmet Yilmaz;B1031;Introduction to Java;Soha H. Cormen;2025-02-05
+2457818;Selin Arslan;B1007;SICP;Harold Abelson, Gerald Jay Sussman;2025-02-12
+2457819;Baran Uslu;B1008;Pattern Recognition and Machine Learning;Christopher Bishop;2025-03-04
+2457820;Ipek Kose;B1009;Modern Operating Systems;Andrew S. Tanenbaum;2025-02-20
+2457821;Deniz Kalkan;B1010;Compilers: Principles, Techniques, and Tools;Aho, Lam, Sethi, Ullman;2025-02-25
+2457822;Ozan Tekin;B1011;The Mythical Man-Month;Fred Brooks;2025-02-28
+2457823;Tugce Arman;B1012;Deep Learning;Ian Goodfellow, Yoshua Bengio, Aaron Courville;2025-03-01
+2457824;Cem Aksoy;B1013;Refactoring;Martin Fowler;2025-02-14
+2457825;Mira Kaplan;B1014;Algorithms Unlocked;Thomas H. Cormen;2025-03-09
+2457826;Deniz Bora;B1015;The C Programming Language;Kernighan, Ritchie;2025-02-18
+2457827;Ali Kerem;B1016;Reinforcement Learning;Sutton, Barto;2025-03-08
+2457828;Zeynep Kiran;B1017;Computer Architecture;Hennessy, Patterson;2025-03-02
+2457829;Hakan Ergun;B1018;Code Complete;Steve McConnell;2025-03-03
+2457830;Cihan Demir;B1019;Cracking the Coding Interview;Gayle McDowell;2025-03-10
+2457831;Omer Sarac;B1020;Domain-Driven Design;Eric Evans;2025-02-16
+2457832;Sude Koc;B1021;Speech and Language Processing;Jurafsky, Martin;2025-03-05
+2457833;Berke Ucar;B1022;Cloud Computing;Thomas Erl;2025-02-22
+2457834;Nisa Ozdemir;B1023;The Pragmatic Programmer;Hunt, Thomas;2025-03-06
+2457835;Efe Sancar;B1024;Theory of Computation;Michael Sipser;2025-02-27
+2457836;Kaan Uslu;B1025;Introduction to Machine Learning;Ethem Alpaydin;2025-03-11
+2457837;Ahmet Kalkan;B1026;Linux Kernel Development;Robert Love;2025-02-26
+2457838;Melis Arici;B1027;Data Mining;Han, Kamber, Pei;2025-03-01
+2457839;Serkan Ergun;B1028;Working Effectively with Legacy Code;Michael Feathers;2025-02-18
+2457840;Irem Arslan;B1029;Human-Computer Interaction;Alan Dix;2025-03-03
+2457841;Ezgi Korkmaz;B1030;Computer Graphics;John F. Hughes et al.;2025-03-04
+2457842;Onur Tek;B1031;Parallel Programming;Peter Pacheco;2025-03-12
+2457843;Yasin Duran;B1032;Agile Software Development;Robert C. Martin;2025-02-20
+2457844;Melike Acar;B1033;UNIX Systems Programming;Kay Robbins, Steven Robbins;2025-02-28
+2457845;Mert Kaplan;B1034;Elements of Statistical Learning;Hastie, Tibshirani, Friedman;2025-03-06
+2457846;Selim Can;B1035;Clean Architecture;Robert C. Martin;2025-03-04
+2457847;Emir Turan;B1036;Numerical Recipes;Press et al.;2025-02-23
+2457848;Oya Kara;B1037;Discrete Mathematics;Kenneth Rosen;2025-03-13
+2457849;Esra Taskin;B1038;Soft Skills;John Sonmez;2025-02-24
+2457850;Umut Denli;B1039;Computer Security;William Stallings, Lawrie Brown;2025-03-03
+2457851;Derya Karaca;B1040;Python Machine Learning;Sebastian Raschka, Vahid Mirjalili;2025-03-08
+2457852;Arda Bilgin;B1041;Neural Networks and Deep Learning;Michael Nielsen;2025-03-02
+2457853;Sena Kibar;B1042;Quantum Computation and Quantum Information;Nielsen, Chuang;2025-02-21
+2457854;Eren Torun;B1043;Bioinformatics Algorithms;Compeau, Pevzner;2025-03-14
+2457855;Asya Polat;B1044;Software Engineering;Ian Sommerville;2025-02-26
+2457856;Mina Kalkan;B1045;Distributed Systems;Tanenbaum, van Steen;2025-03-05
+2457857;Atakan Ertekin;B1046;Machine Learning Yearning;Andrew Ng;2025-03-07
+2457858;Beste Kanat;B1047;Deep Reinforcement Learning Hands-On;Maxim Lapan;2025-03-09
+2457859;Aylin Gurel;B1048;C++ Primer;Lippman, Lajoie, Moo;2025-02-28
